@@ -1,5 +1,3 @@
-# rezaghz.com 
-#source https://www.geeksforgeeks.org/draw-a-flower-using-turtle-in-python/
 import turtle
  
 # Set initial position
