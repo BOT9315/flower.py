@@ -5,7 +5,8 @@ turtle.left (90)
 turtle.fd (200)
 turtle.pendown ()
 turtle.right (90)
- 
+
+#easy and simple 
 # flower base
 turtle.fillcolor ("red")
 turtle.begin_fill ()
